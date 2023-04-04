@@ -1,4 +1,7 @@
+# các file không up lên git
+
 .vscode
 
 node_modules/
 
+public/css
